@@ -1,4 +1,4 @@
-[{
+{"province":[{
   "id": "84",
   "id_regione": "19",
   "codice_citta_metropolitana": null,
@@ -878,4 +878,4 @@
   "sigla_automobilistica": "VT",
   "latitudine": 42.420677,
   "longitudine": 12.107669
-}]
+}]}
